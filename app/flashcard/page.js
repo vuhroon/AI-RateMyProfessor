@@ -16,6 +16,7 @@ export default function flashcard() {
   const [loading, setloading] = useState(false);
   const [topic, setTopic] = useState("");
   const [ai_result, set_ai_result] = useState([]);
+  console.log('hello varun');
   const {
     GoogleGenerativeAI,
     HarmCategory,
