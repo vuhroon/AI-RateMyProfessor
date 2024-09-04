@@ -1,0 +1,122 @@
+{"reviews":[
+    {
+        "professor": "Dr. Emily Stone",
+        "subject": "Physics",
+        "stars": 9,
+        "review": "Dr. Stone's lectures are incredibly detailed and engaging. She makes complex concepts easy to understand with practical examples."
+    },
+    {
+        "professor": "Prof. Michael Trent",
+        "subject": "Mathematics",
+        "stars": 8,
+        "review": "Prof. Trent is a master of the subject. His clear explanations and step-by-step approach help students grasp even the toughest problems."
+    },
+    {
+        "professor": "Dr. Sarah Patel",
+        "subject": "Biology",
+        "stars": 10,
+        "review": "Dr. Patel's passion for biology is contagious. Her classes are always informative and she encourages deep thinking."
+    },
+    {
+        "professor": "Prof. John Morrison",
+        "subject": "Computer Science",
+        "stars": 7,
+        "review": "Prof. Morrison knows his stuff, but his lectures can be a bit dry. However, his assignments are very practical and useful."
+    },
+    {
+        "professor": "Dr. Lisa Nguyen",
+        "subject": "Chemistry",
+        "stars": 8,
+        "review": "Dr. Nguyen has a great way of breaking down difficult topics into manageable chunks. Her labs are well-organized and educational."
+    },
+    {
+        "professor": "Prof. David Wright",
+        "subject": "History",
+        "stars": 9,
+        "review": "Prof. Wright is an excellent storyteller, making history come alive. His lectures are both informative and entertaining."
+    },
+    {
+        "professor": "Dr. Rebecca Lopez",
+        "subject": "Economics",
+        "stars": 7,
+        "review": "Dr. Lopez is very knowledgeable, but her teaching style is a bit fast-paced. However, her office hours are extremely helpful."
+    },
+    {
+        "professor": "Prof. Henry Thompson",
+        "subject": "Literature",
+        "stars": 9,
+        "review": "Prof. Thompson is passionate about literature and it shows in his lectures. He encourages students to think critically about the texts."
+    },
+    {
+        "professor": "Dr. Karen Zhao",
+        "subject": "Psychology",
+        "stars": 10,
+        "review": "Dr. Zhao's classes are always interesting. She provides a great balance of theory and practical examples, making the subject easy to relate to."
+    },
+    {
+        "professor": "Prof. William Baker",
+        "subject": "Philosophy",
+        "stars": 8,
+        "review": "Prof. Baker challenges his students to think deeply and question assumptions. His discussions are thought-provoking and engaging."
+    },
+    {
+        "professor": "Dr. Olivia Davis",
+        "subject": "Sociology",
+        "stars": 9,
+        "review": "Dr. Davis is an expert in her field. Her lectures are insightful, and she encourages active participation in class."
+    },
+    {
+        "professor": "Prof. Charles Kim",
+        "subject": "Political Science",
+        "stars": 7,
+        "review": "Prof. Kim has a wealth of knowledge, but his lectures can sometimes be overwhelming. However, his exams are fair and well-structured."
+    },
+    {
+        "professor": "Dr. Anthony Ross",
+        "subject": "Anthropology",
+        "stars": 8,
+        "review": "Dr. Ross brings real-world examples into his lectures, making anthropology come to life. His assignments are challenging but rewarding."
+    },
+    {
+        "professor": "Prof. Linda Harris",
+        "subject": "Art History",
+        "stars": 9,
+        "review": "Prof. Harris has a deep love for art that is evident in her teaching. She provides great context and background for every piece she discusses."
+    },
+    {
+        "professor": "Dr. James Walker",
+        "subject": "Environmental Science",
+        "stars": 10,
+        "review": "Dr. Walker's classes are eye-opening. He provides a thorough understanding of environmental issues and encourages proactive thinking."
+    },
+    {
+        "professor": "Prof. Sandra Martin",
+        "subject": "Linguistics",
+        "stars": 8,
+        "review": "Prof. Martin's lectures are very detailed, and she has a knack for explaining difficult concepts clearly. Her enthusiasm for linguistics is contagious."
+    },
+    {
+        "professor": "Dr. Eric Wilson",
+        "subject": "Geography",
+        "stars": 7,
+        "review": "Dr. Wilson's lectures are content-rich, though they can sometimes be a bit dry. However, his field trips are exceptional and very educational."
+    },
+    {
+        "professor": "Prof. Jessica Lee",
+        "subject": "Astronomy",
+        "stars": 9,
+        "review": "Prof. Lee's passion for the stars is evident in every lecture. She explains astronomical concepts with clarity and enthusiasm."
+    },
+    {
+        "professor": "Dr. Robert Evans",
+        "subject": "Statistics",
+        "stars": 8,
+        "review": "Dr. Evans provides clear and concise explanations of statistical methods. His examples are practical, making the material easier to understand."
+    },
+    {
+        "professor": "Prof. Maria Torres",
+        "subject": "Music Theory",
+        "stars": 10,
+        "review": "Prof. Torres is incredibly talented and her passion for music is inspiring. Her classes are a perfect blend of theory and practice."
+    }
+]}
