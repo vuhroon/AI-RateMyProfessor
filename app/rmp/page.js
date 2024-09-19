@@ -1,5 +1,4 @@
 "use client";
-// import { Pinecone } from '@pinecone-database/pinecone';
 import reviews from "../../reviews.json";
 import { Box, FileX } from "lucide-react";
 import { Button } from "@/components/ui/button";
